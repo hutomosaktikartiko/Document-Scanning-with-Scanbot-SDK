@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - scanbot_sdk (1.0.0):
+    - Flutter
+    - ScanbotSDK/MRZ (= 1.29.0)
+  - ScanbotSDK/MRZ (1.29.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - scanbot_sdk (from `.symlinks/plugins/scanbot_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ScanbotSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  scanbot_sdk:
+    :path: ".symlinks/plugins/scanbot_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  scanbot_sdk: cc07e1874133a66cd257fb7a59457de04080bd7e
+  ScanbotSDK: 16bc5c75144314edb5bb183c390c81cc6d38576c
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.11.3
